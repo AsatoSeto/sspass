@@ -5,7 +5,7 @@
   <blockquote>
     {{band.bio}}
   </blockquote>
-
+asdasdasd
   <ul class="list-unstyled">
     <li v-for="member in members">
       <h2>
